@@ -12,6 +12,8 @@
   - **KakaoBrain PORORO**
 - **Topic Modeling (토픽 모델링)**
   - **LSA (Latent Semantic Analysis, 잠재 의미 분석)**
+- **Text Classification**
+  - **Multi-Class Text Classification with Doc2Vec & Logistic Regression**
 
 <br/>
 
