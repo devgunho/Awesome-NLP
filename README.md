@@ -3,6 +3,11 @@
 <p align="center">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
 </p>
+<br/>
+
+![image-20211013044619233](README.assets/terminology.png)
+
+![image-20211013044250334](README.assets/pipeline.png)
 
 <br/>
 
@@ -10,6 +15,8 @@
 
 - **Korean Morpheme Analyzer**
   - **KakaoBrain PORORO**
+- **Tokenizer**
+  - **BERT Tokenizer**
 - **Topic Modeling (토픽 모델링)**
   - **LSA (Latent Semantic Analysis, 잠재 의미 분석)**
 - **Text Classification**
