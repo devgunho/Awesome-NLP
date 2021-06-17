@@ -11,6 +11,8 @@
 
 <br/>
 
+<br/>
+
 ## Table of Contents
 
 - **Korean Morpheme Analyzer**
@@ -23,6 +25,12 @@
   - **Multi-Class Text Classification with Doc2Vec & Logistic Regression**
 
 <br/>
+
+<br/>
+
+<br/>
+
+# Korean Morpheme Analyzer
 
 <br/>
 
@@ -66,6 +74,12 @@ It is easy to solve various subtasks in the natural language and speech processi
 ```
 
 <br/>
+
+<br/>
+
+<br/>
+
+# Topic Modeling (토픽 모델링)
 
 <br/>
 
